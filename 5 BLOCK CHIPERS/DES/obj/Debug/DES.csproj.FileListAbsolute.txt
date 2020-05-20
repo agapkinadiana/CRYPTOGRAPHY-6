@@ -1,0 +1,5 @@
+/Users/dianaagapkina/Desktop/DES/DES/bin/Debug/DES.exe
+/Users/dianaagapkina/Desktop/DES/DES/bin/Debug/DES.pdb
+/Users/dianaagapkina/Desktop/DES/DES/obj/Debug/DES.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/DES/DES/obj/Debug/DES.exe
+/Users/dianaagapkina/Desktop/DES/DES/obj/Debug/DES.pdb
