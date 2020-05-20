@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBS_RC4", "BBS\BBS_RC4.csproj", "{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Debug|anycpu.Build.0 = Debug|anycpu
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Release|anycpu.ActiveCfg = Release|anycpu
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

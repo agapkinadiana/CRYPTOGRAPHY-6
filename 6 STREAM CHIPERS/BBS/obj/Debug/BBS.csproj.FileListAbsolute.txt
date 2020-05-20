@@ -1,0 +1,5 @@
+/Users/dianaagapkina/Desktop/BBS/BBS/bin/Debug/BBS.exe
+/Users/dianaagapkina/Desktop/BBS/BBS/bin/Debug/BBS.pdb
+/Users/dianaagapkina/Desktop/BBS/BBS/obj/Debug/BBS.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/BBS/BBS/obj/Debug/BBS.exe
+/Users/dianaagapkina/Desktop/BBS/BBS/obj/Debug/BBS.pdb
