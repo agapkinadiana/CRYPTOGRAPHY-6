@@ -1,0 +1,3 @@
+git commit —amend -> to change commit
+git commit —amend -m “lalala”
+git commit —amend —no-edition -> add smth to commit
