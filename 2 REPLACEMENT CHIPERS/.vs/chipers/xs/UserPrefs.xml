@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B9EA5621-4F03-4940-B60E-AADDD6E9C526}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="chipers/СipherPorts.cs">
+    <Files>
+      <File FileName="chipers/Caesar.cs" Line="1" Column="1" />
+      <File FileName="chipers/СipherPorts.cs" Line="83" Column="33" />
+      <File FileName="chipers/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chipers" expanded="True">
+            <Node name="chipers" expanded="True">
+              <Node name="СipherPorts.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.chipers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

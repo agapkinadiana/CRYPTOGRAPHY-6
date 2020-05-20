@@ -1,0 +1,10 @@
+/Users/dianaagapkina/Desktop/chipers/chipers/bin/Debug/chipers.exe
+/Users/dianaagapkina/Desktop/chipers/chipers/bin/Debug/chipers.pdb
+/Users/dianaagapkina/Desktop/chipers/chipers/obj/Debug/chipers.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/chipers/chipers/obj/Debug/chipers.exe
+/Users/dianaagapkina/Desktop/chipers/chipers/obj/Debug/chipers.pdb
+/Users/dianaagapkina/Desktop/STUDY/6 term/CRIPTA LABS/2 REPLACEMENT CHIPERS/chipers/bin/Debug/chipers.exe
+/Users/dianaagapkina/Desktop/STUDY/6 term/CRIPTA LABS/2 REPLACEMENT CHIPERS/chipers/bin/Debug/chipers.pdb
+/Users/dianaagapkina/Desktop/STUDY/6 term/CRIPTA LABS/2 REPLACEMENT CHIPERS/chipers/obj/Debug/chipers.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/STUDY/6 term/CRIPTA LABS/2 REPLACEMENT CHIPERS/chipers/obj/Debug/chipers.exe
+/Users/dianaagapkina/Desktop/STUDY/6 term/CRIPTA LABS/2 REPLACEMENT CHIPERS/chipers/obj/Debug/chipers.pdb
