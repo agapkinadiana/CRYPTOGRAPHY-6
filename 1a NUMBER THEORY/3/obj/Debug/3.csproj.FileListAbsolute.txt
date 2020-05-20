@@ -1,0 +1,10 @@
+/Users/dianaagapkina/Desktop/3/3/obj/Debug/3.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/3/3/bin/Debug/3.exe
+/Users/dianaagapkina/Desktop/3/3/bin/Debug/3.pdb
+/Users/dianaagapkina/Desktop/3/3/obj/Debug/3.exe
+/Users/dianaagapkina/Desktop/3/3/obj/Debug/3.pdb
+/Users/dianaagapkina/Desktop/STUDY/6 term/KMZI/3/3/bin/Debug/3.exe
+/Users/dianaagapkina/Desktop/STUDY/6 term/KMZI/3/3/bin/Debug/3.pdb
+/Users/dianaagapkina/Desktop/STUDY/6 term/KMZI/3/3/obj/Debug/3.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/STUDY/6 term/KMZI/3/3/obj/Debug/3.exe
+/Users/dianaagapkina/Desktop/STUDY/6 term/KMZI/3/3/obj/Debug/3.pdb
