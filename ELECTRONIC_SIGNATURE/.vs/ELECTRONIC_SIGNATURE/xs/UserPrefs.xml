@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ABAE7166-C12B-41CC-A8A8-7D1ACBF50E8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ELECTRONIC__SIGNATURE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ELECTRONIC_SIGNATURE/ELGAMAL.cs">
+    <Files>
+      <File FileName="ELECTRONIC_SIGNATURE/Program.cs" Line="12" Column="38" />
+      <File FileName="ELECTRONIC_SIGNATURE/RSA.cs" Line="24" Column="10" />
+      <File FileName="ELECTRONIC_SIGNATURE/ELGAMAL.cs" Line="142" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ELECTRONIC_SIGNATURE" expanded="True">
+            <Node name="ELECTRONIC_SIGNATURE" expanded="True">
+              <Node name="ELGAMAL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

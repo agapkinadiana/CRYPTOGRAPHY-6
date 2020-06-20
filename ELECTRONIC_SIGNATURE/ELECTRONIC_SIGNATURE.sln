@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELECTRONIC_SIGNATURE", "ELECTRONIC_SIGNATURE\ELECTRONIC_SIGNATURE.csproj", "{ABAE7166-C12B-41CC-A8A8-7D1ACBF50E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAE7166-C12B-41CC-A8A8-7D1ACBF50E8D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{ABAE7166-C12B-41CC-A8A8-7D1ACBF50E8D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{ABAE7166-C12B-41CC-A8A8-7D1ACBF50E8D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{ABAE7166-C12B-41CC-A8A8-7D1ACBF50E8D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

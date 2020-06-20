@@ -1,0 +1,16 @@
+﻿<Window x:Class="KMZI13.Encrypt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KMZI13"
+        mc:Ignorable="d"
+        Title="Encrypt" Height="450" Width="800">
+    <Grid>
+        <Button Content="Encypt" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox Name="TextToEncrypt" HorizontalAlignment="Left" Height="69" Margin="10,10,0,0" TextWrapping="Wrap" Text="ДИАНА" VerticalAlignment="Top" Width="350"/>
+        <TextBox Name="TextToDecrypt" HorizontalAlignment="Left" Height="69" Margin="388,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="394"/>
+        <Button Content="Decrypt" HorizontalAlignment="Left" Margin="105,95,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
